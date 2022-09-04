@@ -11,7 +11,7 @@ how to access fastapi api is described in api_try file
 
 how to upload docker image to docker hub:
   - create github repository
-  - add action docker something
+  - add action docker image
   - update .yaml file to include commands which upload model to docker hub
 
 how to upload docker repository to google cloud:
