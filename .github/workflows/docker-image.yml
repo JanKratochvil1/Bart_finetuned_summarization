@@ -27,4 +27,4 @@ jobs:
         context: ./
         file: ./Dockerfile
         push: true
-        tags: jankratochvil/Bart_finetuned_summarization:latest
+        tags: jankratochvil/bart_finetuned_summarization:latest
